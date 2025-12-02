@@ -1,0 +1,20 @@
+{
+  "name": "threejs-boilerplate",
+  "version": "0.0.0",
+  "devDependencies": {
+    "@dimforge/rapier3d": "^0.19.3",
+    "@types/three": "^0.181.0",
+    "jeasings": "^0.0.16",
+    "three": "^0.181.2",
+    "typescript": "~5.9.3",
+    "vite": "^7.2.4",
+    "vite-plugin-top-level-await": "^1.6.0"
+  },
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "type": "module"
+}
