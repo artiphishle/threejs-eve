@@ -1,6 +1,6 @@
 {
-  "name": "threejs-boilerplate",
-  "version": "0.0.0",
+  "name": "threejs-eve",
+  "version": "0.0.1",
   "devDependencies": {
     "@dimforge/rapier3d": "^0.19.3",
     "@types/three": "^0.181.0",
